@@ -1,0 +1,1 @@
+Partial opt out You may allow a consumer to select certain nonpublic personal information or certain nonaffiliated third parties with respect to which the consumer wishes to opt out
